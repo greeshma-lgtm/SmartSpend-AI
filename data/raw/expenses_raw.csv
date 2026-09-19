@@ -1,0 +1,251 @@
+Date,Amount,Description,Category
+2026-01-04,606.82,Electricity charges,Bills
+2026-01-05,1384.99,Bread and dairy,Groceries
+2026-01-07,398.71,Weekly grocery haul,Groceries
+2026-01-07,1866.37,Zara jacket,Shopping
+2026-01-07,2280.17,Property tax,Bills
+2026-01-08,111.17,Flight ticket,Travel
+2026-01-10,1148.93,Electricity bill payment,Bills
+2026-01-10,364.44,Auto rickshaw,Travel
+2026-01-14,1382.31,Internet bill,Bills
+2026-01-16,202.45,Book purchase,Other
+2026-01-19,667.52,Watch purchase,Shopping
+2026-01-19,68.73,Auto rickshaw,Travel
+2026-01-19,3813.92,Mobile phone bill,Bills
+2026-01-20,329.59,Train ticket,Travel
+2026-01-22,827.57,Zara jacket,Shopping
+2026-01-24,319.37,Pharmacy - medicines,Health
+2026-01-25,348.24,Gaming subscription,Entertainment
+2026-01-25,944.33,Netflix subscription,Entertainment
+2026-01-28,131.04,Taxi ride,Travel
+2026-01-29,121.56,Home decoration,Other
+2026-02-01,1321.72,Sunglasses,Shopping
+2026-02-01,236.82,Stationery items,Other
+2026-02-07,1908.46,Health insurance,Health
+2026-02-07,652.59,Personal care items,Other
+2026-02-08,296.58,Bus ticket,Travel
+2026-02-14,453.65,Stationery items,Other
+2026-02-16,355.37,Domino's Pizza,Food
+2026-02-18,978.29,Book purchase,Other
+2026-02-18,237.13,Farmer's market,Groceries
+2026-02-21,428.7,Parking fee,Travel
+2026-02-21,351.29,Pizza Hut order,Food
+2026-02-22,440.07,Weekly grocery haul,Groceries
+2026-02-23,1848.33,Hospital bill,Health
+2026-02-24,725.83,Gaming console purchase,Entertainment
+2026-03-02,388.25,Prime Video membership,Entertainment
+2026-03-02,268.73,Laundry service,Other
+2026-03-03,664.07,Disney+ subscription,Entertainment
+2026-03-03,377.06,Zara jacket,Shopping
+2026-03-07,870.09,Prime Video membership,Entertainment
+2026-03-07,1080.36,Milk delivery,Groceries
+2026-03-09,371.49,Taxi ride,Travel
+2026-03-11,2611.35,Adidas apparel,Shopping
+2026-03-11,464.62,Cafe coffee,Food
+2026-03-12,405.42,Veggie market,Groceries
+2026-03-13,647.53,Spotify premium,Entertainment
+2026-03-15,395.15,Farmer's market,Groceries
+2026-03-15,319.69,Concert ticket,Entertainment
+2026-03-17,879.97,Mobile phone bill,Bills
+2026-03-19,291.62,Laundry service,Other
+2026-03-22,2216.48,Watch purchase,Shopping
+2026-03-23,2294.62,Sunglasses,Shopping
+2026-03-23,386.5,Big Bazaar groceries,Groceries
+2026-03-27,1868.44,Eye clinic,Health
+2026-03-30,439.58,Health insurance,Health
+2026-03-30,742.94,Netflix subscription,Entertainment
+2026-04-01,437.9,Biryani lunch,Food
+2026-04-02,3388.85,Water bill,Bills
+2026-04-04,2978.75,H&M dress,Shopping
+2026-04-04,288.35,Auto rickshaw,Travel
+2026-04-04,2104.28,Mobile phone bill,Bills
+2026-04-05,1284.34,Walmart shopping,Groceries
+2026-04-05,4274.46,Mobile phone bill,Bills
+2026-04-06,1220.28,Farmer's market,Groceries
+2026-04-08,247.71,Biryani lunch,Food
+2026-04-10,115.41,Cinema hall,Entertainment
+2026-04-10,650.88,Spotify premium,Entertainment
+2026-04-12,820.77,Dmart vegetables,Groceries
+2026-04-13,196.16,Flight ticket,Travel
+2026-04-13,1233.63,Supermarket fruits,Groceries
+2026-04-15,758.88,Haircut,Other
+2026-04-16,1412.85,Vaccination charge,Health
+2026-04-18,874.51,Bread and dairy,Groceries
+2026-04-21,1853.69,Internet bill,Bills
+2026-04-21,1367.94,Eye clinic,Health
+2026-04-21,549.1,Gift purchase,Other
+2026-04-24,990.08,Jewelry store,Shopping
+2026-04-24,979.87,Car wash,Other
+2026-04-24,301.18,Gift purchase,Other
+2026-04-27,218.97,Gaming console purchase,Entertainment
+2026-04-29,4220.46,Rent payment,Bills
+2026-05-02,448.55,Restaurant dinner,Food
+2026-05-03,319.22,Subway sandwich,Food
+2026-05-04,236.92,Haircut,Other
+2026-05-06,870.01,Gift purchase,Other
+2026-05-06,315.61,Uber ride to airport,Travel
+2026-05-07,2594.39,Jewelry store,Shopping
+2026-05-08,177.97,Gaming subscription,Entertainment
+2026-05-10,1339.08,Farmer's market,Groceries
+2026-05-11,318.86,Chinese takeout,Food
+2026-05-12,1055.94,Dmart vegetables,Groceries
+2026-05-12,214.0,Ola cab ride,Travel
+2026-05-15,1414.12,Bread and dairy,Groceries
+2026-05-17,674.99,Netflix subscription,Entertainment
+2026-05-18,855.85,Pet supplies,Other
+2026-05-19,324.58,YouTube premium,Entertainment
+2026-05-20,363.89,McDonald's lunch,Food
+2026-05-20,233.23,Restaurant dinner,Food
+2026-05-22,619.97,Adidas apparel,Shopping
+2026-05-23,1740.88,Doctor's appointment,Health
+2026-05-24,278.84,Weekly grocery haul,Groceries
+2026-05-25,1048.72,Doctor's appointment,Health
+2026-05-25,169.87,Parking fee,Travel
+2026-05-29,1013.3,Gym membership,Health
+2026-06-01,1325.14,Doctor's appointment,Health
+2026-06-01,371.73,Zara jacket,Shopping
+2026-06-02,690.75,Gaming console purchase,Entertainment
+2026-06-03,82.07,Parking fee,Travel
+2026-06-06,1804.6,Vaccination charge,Health
+2026-06-07,556.36,Car wash,Other
+2026-06-09,227.51,Starbucks coffee,Food
+2026-06-09,318.66,Dentist checkup,Health
+2026-06-11,793.81,Food grains purchase,Groceries
+2026-06-14,241.33,Domino's Pizza,Food
+2026-06-18,2528.15,Gas bill,Bills
+2026-06-21,2443.19,Internet bill,Bills
+2026-06-21,743.03,Hospital bill,Health
+2026-06-23,756.06,Stationery items,Other
+2026-06-26,351.06,Farmer's market,Groceries
+2026-06-28,514.05,H&M dress,Shopping
+2026-06-28,2264.02,Nike shoes,Shopping
+2026-06-29,1831.36,Myntra clothing,Shopping
+2026-06-30,1600.86,Rent payment,Bills
+2026-07-01,676.83,Property tax,Bills
+2026-07-01,543.72,Milk delivery,Groceries
+2026-07-02,1098.67,Farmer's market,Groceries
+2026-07-02,475.53,Pet supplies,Other
+2026-07-06,494.48,Cafe coffee,Food
+2026-07-08,300.22,Highway toll,Travel
+2026-07-09,139.35,YouTube premium,Entertainment
+2026-07-10,686.41,Donation,Other
+2026-07-16,606.25,Pet supplies,Other
+2026-07-17,490.72,Domino's Pizza,Food
+2026-07-18,593.74,Home decoration,Other
+2026-07-18,1762.49,H&M dress,Shopping
+2026-07-20,229.9,McDonald's lunch,Food
+2026-07-22,532.15,McDonald's lunch,Food
+2026-07-23,309.37,H&M dress,Shopping
+2026-07-24,161.16,Biryani lunch,Food
+2026-07-26,412.72,Cafe coffee,Food
+2026-07-26,220.47,Cafe coffee,Food
+2026-07-26,1117.28,Supermarket fruits,Groceries
+2026-07-27,240.51,Burger King meal,Food
+2026-07-30,206.24,Netflix subscription,Entertainment
+2026-07-30,1438.22,Dentist checkup,Health
+2026-07-30,2269.96,Jewelry store,Shopping
+2026-07-30,115.52,Ola cab ride,Travel
+2026-08-01,554.69,Sunglasses,Shopping
+2026-08-01,54.21,Train ticket,Travel
+2026-08-04,449.17,Gift purchase,Other
+2026-08-04,894.43,Electricity bill payment,Bills
+2026-08-07,1034.02,Electricity charges,Bills
+2026-08-11,1733.69,Amazon order - shoes,Shopping
+2026-08-12,857.58,Haircut,Other
+2026-08-13,2844.44,Sunglasses,Shopping
+2026-08-14,430.42,Home decoration,Other
+2026-08-15,381.22,Cinema hall,Entertainment
+2026-08-16,1711.98,Medical prescription,Health
+2026-08-16,959.16,Watch purchase,Shopping
+2026-08-19,654.16,Home decoration,Other
+2026-08-21,1352.89,Gym membership,Health
+2026-08-22,988.53,Food grains purchase,Groceries
+2026-08-25,198.41,Burger King meal,Food
+2026-08-25,1089.11,Bread and dairy,Groceries
+2026-08-29,690.91,Book purchase,Other
+2026-08-30,241.66,Flight ticket,Travel
+2026-09-01,264.6,Taxi ride,Travel
+2026-09-02,309.76,YouTube premium,Entertainment
+2026-09-03,445.21,Veggie market,Groceries
+2026-09-04,905.0,Utility payment,Bills
+2026-09-05,447.17,Pet supplies,Other
+2026-09-07,1790.96,Jewelry store,Shopping
+2026-09-08,563.4,Property tax,Bills
+2026-09-13,562.32,Gym membership,Health
+2026-09-18,1252.22,Hospital bill,Health
+2026-09-18,186.97,Donation,Other
+2026-09-18,383.04,Domino's Pizza,Food
+2026-09-24,754.72,Car wash,Other
+2026-09-25,907.28,Spotify premium,Entertainment
+2026-09-30,716.73,Health insurance,Health
+2026-09-30,675.1,Bread and dairy,Groceries
+2026-10-02,1252.27,Sunglasses,Shopping
+2026-10-03,2998.23,Zara jacket,Shopping
+2026-10-05,717.78,Eye clinic,Health
+2026-10-05,172.6,McDonald's lunch,Food
+2026-10-07,306.64,Bus ticket,Travel
+2026-10-08,880.69,Pet supplies,Other
+2026-10-10,1972.3,Myntra clothing,Shopping
+2026-10-11,224.19,McDonald's lunch,Food
+2026-10-12,2654.42,Gas bill,Bills
+2026-10-13,334.93,Prime Video membership,Entertainment
+2026-10-14,251.24,Eye clinic,Health
+2026-10-16,1345.26,Myntra clothing,Shopping
+2026-10-16,460.21,Parking fee,Travel
+2026-10-21,4664.21,Insurance premium,Bills
+2026-10-22,528.83,Chinese takeout,Food
+2026-10-22,1989.31,Watch purchase,Shopping
+2026-10-27,1576.48,Amazon order - shoes,Shopping
+2026-10-27,140.55,Gaming console purchase,Entertainment
+2026-10-29,2912.62,H&M dress,Shopping
+2026-11-05,697.3,Prime Video membership,Entertainment
+2026-11-06,2425.01,Gas bill,Bills
+2026-11-07,622.66,Car wash,Other
+2026-11-09,195.72,Biryani lunch,Food
+2026-11-11,3660.14,Rent payment,Bills
+2026-11-11,468.29,H&M dress,Shopping
+2026-11-13,489.73,Parking fee,Travel
+2026-11-16,1153.21,Zara jacket,Shopping
+2026-11-16,290.56,Restaurant dinner,Food
+2026-11-17,259.68,Pizza Hut order,Food
+2026-11-18,90.36,Parking fee,Travel
+2026-11-18,223.18,Car wash,Other
+2026-11-20,592.31,Vaccination charge,Health
+2026-11-20,392.41,Movie ticket,Entertainment
+2026-11-21,250.77,Cafe coffee,Food
+2026-11-22,997.27,Prime Video membership,Entertainment
+2026-11-24,932.64,Insurance premium,Bills
+2026-11-25,135.89,Petrol fill-up,Travel
+2026-11-25,1295.34,Electricity charges,Bills
+2026-11-27,1956.17,Water bill,Bills
+2026-11-27,63.15,Highway toll,Travel
+2026-11-28,662.6,Donation,Other
+2026-11-29,157.82,Train ticket,Travel
+2026-12-03,1453.74,Farmer's market,Groceries
+2026-12-03,232.08,Cafe coffee,Food
+2026-12-06,417.84,Cafe coffee,Food
+2026-12-07,548.62,Amazon order - shoes,Shopping
+2026-12-09,189.25,Cafe coffee,Food
+2026-12-10,1965.49,Gym membership,Health
+2026-12-11,358.08,Pizza Hut order,Food
+2026-12-11,1330.34,Nike shoes,Shopping
+2026-12-11,981.43,Amazon order - shoes,Shopping
+2026-12-12,787.86,Mobile phone bill,Bills
+2026-12-12,210.3,Uber ride to airport,Travel
+2026-12-15,269.92,Parking fee,Travel
+2026-12-17,416.3,Eye clinic,Health
+2026-12-18,383.23,Highway toll,Travel
+2026-12-18,161.47,Ola cab ride,Travel
+2026-12-18,216.18,Car wash,Other
+2026-12-20,2839.42,Mobile phone bill,Bills
+2026-12-20,1806.51,Myntra clothing,Shopping
+2026-12-20,260.21,Highway toll,Travel
+2026-12-21,1100.36,Bread and dairy,Groceries
+2026-12-23,4004.21,Gas bill,Bills
+2026-12-23,1291.18,Flipkart purchase,Shopping
+2026-12-24,364.19,Highway toll,Travel
+2026-12-24,466.69,Burger King meal,Food
+2026-12-25,3202.78,Water bill,Bills
+2026-12-28,2198.02,Gas bill,Bills
+2026-12-29,1809.11,Internet bill,Bills
+2026-12-31,4482.02,Insurance premium,Bills
